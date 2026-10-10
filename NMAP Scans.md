@@ -6,13 +6,7 @@ Room Access: https://tryhackme.com/room/wiresharktrafficanalysis
 ---
 ---
 
-<h2>Task 1</h2>
-<code>No questions</code>
-
----
----
-
-<h2>Task 2</h2>
+<h2>Task 2 - NMAP Scans</h2>
 
 <strong>What is the total number of the "TCP Connect" scans?</strong>
 </br>
